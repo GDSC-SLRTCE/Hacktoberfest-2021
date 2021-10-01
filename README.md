@@ -1,7 +1,7 @@
 # Hacktoberfest-2021
 ## List of Domain wise Repository & Maintainers
 #### Artificial Intelligence & Machine Learning ####
-Project: | maintainer
+Project | Maintainer
 ---------|-----------
 [Color Detection](https://github.com/ankita2002/Color-Detection) | Ankita Upadhyay
 [Color Detection in Live web Cam](https://github.com/ankita2002/Color_Detection_in_webcam) | Ankita Upadhyay
