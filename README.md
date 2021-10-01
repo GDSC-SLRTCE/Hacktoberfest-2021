@@ -18,7 +18,7 @@ Project | Maintainer
 Project | Maintainer 
 --------|------------
 [KeyLogger](https://github.com/aydinnyunus/Keylogger0) | Yunus AYDIN
-[Lottery React Blockchain](https://github.com/darshjain/lottery-react-blockchain) | Darsh Jainn
+[Lottery React Blockchain](https://github.com/darshjain/lottery-react-blockchain) | Darsh Jain
 [Blockchain demo](https://github.com/anders94/blockchain-demo) | Anders Brownworth
 [Hidden Wall](https://github.com/CoolerVoid/HiddenWall) | Cooler_
 [Bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin
