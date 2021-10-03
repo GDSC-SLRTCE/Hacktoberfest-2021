@@ -12,8 +12,6 @@ Project | Maintainer
 [Invisible Cape](https://github.com/ankita2002/Invisible) | Ankita Upadhyay
 [My AI Personal Voice Assistant](https://github.com/soumwadeep/My-AI-Personal-Voice-Assistant) | Soumwadeep Guha
 
-#### Blockchain ####
-
 
 #### Blockchain ####
 Project | Maintainer 
