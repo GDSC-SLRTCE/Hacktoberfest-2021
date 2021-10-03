@@ -1,6 +1,6 @@
 # Hacktoberfest-2021
 ![banner08-dark](https://user-images.githubusercontent.com/28699912/135737552-36bf9c60-b3c1-4664-ac3c-ef2fab4669cd.png)
-
+![GDSC X SC](https://user-images.githubusercontent.com/28699912/135737784-bc379c62-c9df-4fbb-997e-218bc701f2bc.png)
 
 ## List of Domain wise Repository & Maintainers
 #### Artificial Intelligence & Machine Learning ####
