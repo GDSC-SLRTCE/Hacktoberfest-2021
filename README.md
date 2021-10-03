@@ -18,7 +18,16 @@ Project | Maintainer
 [public-apis](https://github.com/public-apis/public-apis) | public-apis
 [app-ideas](https://github.com/florinpop17/app-ideas) | florinpop17
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | anuraghazra
-
+[vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio) | Nitin Ranganath
+[material-ui](https://github.com/mui-org/material-ui) | MUI
+[Chart.js](https://github.com/chartjs/Chart.js) | chartjs
+[vuetify](https://github.com/vuetifyjs/vuetify) | vuetifyjs
+[hoppscotch](https://github.com/hoppscotch/hoppscotch) | hoppscotch
+[date-fns](https://github.com/date-fns/date-fns) | date-fns
+[nodemon](https://github.com/remy/nodemon) | remy
+[react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | react-bootstrap
+[strapi](https://github.com/strapi/strapi) | strapi
+[swagger-ui](https://github.com/swagger-api/swagger-ui) | swagger-api
 
 #### Cyber Security & Blockchain ####
 Project | Maintainer 
