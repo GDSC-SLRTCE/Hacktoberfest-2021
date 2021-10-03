@@ -43,3 +43,8 @@ Project | Maintainer
 [Solidity](https://github.com/ethereum/solidity) | Ethereum
 [Recon](https://github.com/Knowledge-Wisdom-Understanding/recon) | Knowledge-Wisdom-Understanding
 [nmap](https://github.com/nmap/nmap) | nmap
+
+#### Miscellaneous
+Project | Maintainer
+--|-
+[Hacktoberfest projects](https://github.com/AhmedRaja1/Hacktoberfest) | AhmedRaja1
